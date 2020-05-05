@@ -1,0 +1,99 @@
+SKU	Item                             	Retail    Cost      Floor     Warehouse
+V0011	Cut Green Bean 14.5 oz	                 1.05	  0.49	     73	    227
+V0013	Cut Green Beans 14.5 oz	                 0.75	  0.51	     68	    332
+F0001	Braeburn apples, 2 pack	                 1.79	  0.89	     16	     14
+V0017	Lima Beans 15 oz	                 0.97	  0.49	     92	    108
+V0024	Cut Wax Beans 14.5 oz	                 0.69	  0.34	     47	     53
+V0043	Chili Hot Beans 15 oz	                 0.65	  0.29	     36	     64
+F0002	Braeburn apples, 6 pack	                 4.49	  2.12	     33	     27
+F0003	Gala apples, 2 pack	                 1.89	  0.75	     26	     24
+F0004	Gala apples, 6 pack	                 4.49	  1.99	     20	     25
+F0005	Bananas, green 16 oz	                 0.69	  0.25	     78	    112
+F0006	Lite Peaches 15 oz	                 1.09	  0.49	     44	    134
+F0007	Bananas, ripe 16 oz	                 0.69	  0.20	    166	    234
+F0008	Strawberries 16 oz	                 1.49	  0.69	     72	    118
+F0009	Blackberries, vine ripened 1/2 pt	 4.49	  1.99	     53	    136
+F0010	Blueberries, vine ripened 1/2 pt	 5.99	  2.49	     32	     68
+F0011	Grapefruit, large pink	                 0.79	  0.29	     88	    212
+F0012	Lemon, large	                         0.59	  0.30	     92	    196
+F0013	Lemon, medium	                         0.39	  0.19	     74	    125
+F0014	Lime	                                 0.59	  0.29	     47	     83
+F0015	Navel Orange, large	                 0.69	  0.33	    332	    176
+F0016	Navel Orange, small	                 0.45	  0.19	    156	     44
+F0017	Cantaloupe	                         1.99	  0.99	    184	    125
+F0018	Honeydew	                         3.99	  1.99	     65	     35
+F0019	Beefsteak Tomato, 4 pack	         4.49	  2.22	     43	     34
+F0020	Cherry Tomatos, 12 oz	                 3.99	  1.89	    186	    144
+F0021	Roma Tomatos, 8 pack	                 2.19	  1.09	    190	    160
+F0022	Yellow Tomatos, 2 pack	                 3.99	  2.12	     93	     76
+F0023	Avocado	                                 2.29	  1.89	     46	     32
+V0007	Whole Green Beans 14.5 oz	         0.75	  0.29	    122	    134
+V0015	Whole Kernel Corn 14.5 oz	         0.75	  0.25	    154	    147
+V0027	Sweet Peas 15.25 oz	                 0.75	  0.32	     94	     80
+V0031	Great Northern Bean 12.5 oz	         1.25	  0.59	     86	    324
+V0033	Red Kidney Bean 12.5 oz	                 1.29	  0.55	     82	    320
+V0034	Red Kidney Bean	                         0.79	  0.69	     90	    412
+V0040	Chopped Spinach, 10 oz	                 0.89	  0.49	     82	     91
+V0041	Creamed Spinach, 10 oz	                 1.79	  0.89	     67	     33
+M0004	Ground Beef 80% Lean 16 oz	         3.49	  1.69	    182	    124
+M0005	Ground Beef 90% Lean 16 oz	         4.49	  2.39	    174	    182
+M0010	Chicken Wings, 10 oz	                 2.99	  1.49	    300	    200
+M0013	Chicken breast, split 1.25 lb	         3.49	  1.79	    196	    150
+M0017	Chicken thighs, boneless 1 lb	         2.99	  1.69	    112	    134
+M0018	Chicken thighs	                         1.79	  0.89	     91	    138
+M0020	Choice Chuck Steak 16 oz	         4.49	  2.24	    182	    118
+M0022	Choice Flank Steak 16 oz	         7.99	  3.89	     92	    138
+M0023	Choice Chuck Eye Steak 12 oz	         3.99	  1.99	     86	     68
+M0031	Choice Filet Mignon 8 oz	         9.49	  5.89	     44	     58
+S0035	Crab Legs, Imitation 8 oz	         1.98	  0.99	    182	    146
+S0023	Scallops 16 oz	                        10.99	  4.94	    110	    120
+S0012	Oysters 8 oz	                         6.99	  3.54	    102	    118
+S0008	Jumbo Shrimp, peeled 16 oz	        14.99	  7.79	    229	    128
+S0040	Calamari, breaded rings 10 oz	         5.99	  3.55	     64	     42
+S0041	Calamari, rings 16 oz	                 5.99	  2.99	     36	     47
+S0010	Salmon, farm raised 8 oz	         9.99	  5.15	     79      81
+S0037	Mahi Mahi 8 oz	                         9.99	  4.89	     27	     21
+S0029	Orange Roughy fillets 8 oz	         9.99	  4.00	     38	     39
+S0030	Sushi, Vegetarian, 25 pc	        10.79	  5.05	     18	     64
+S0031	Sushi, Eel and Cucumber, 9 pc	         4.95	  2.50	     28	     33
+D0001	Milk, 2% Gallon	                         3.05	  1.49	    402	    386
+D0002	Milk, 2% Half Gallon	                 2.19	  0.99	    218	    293
+D0013	American Singles 12 oz	                 3.09	  1.40	    301	    299
+D0014	Cheddar Singles 12 oz	                 3.09	  1.33	    299	    338
+D0015	Swiss Singles 12 oz	                 3.09	  1.50	    286	    244
+D0022	Thin Slice Swiss Cheese 8 oz	         3.39	  1.66	    205	    295
+D0030	Monterey Jack, 1 lb	                 6.99	  3.80	    190	    180
+D0032	Swiss, 1 lb	                         8.99	  4.54	     95	    105
+D0033	Havarti, 1 lb	                         7.99	  3.99	     49	     51
+D0037	Pure Goat Milk Cheese, 1 lb	        16.03	  7.79	     34	     26
+D0040	Extra Large Eggs, dozen	                 1.85	  0.95	    380	    290
+D0042	Jumbo Eggs, dozen	                 1.95	  1.09	    176	    144
+D0100	Old Fashioned Spread, 16 oz	         0.89	  0.40	     92	     73
+D0105	Soft Spread, 16 oz	                 1.59	  0.89	     80	     70
+D0110	Margarine Quarters, 16 oz	         1.45	  0.74	     40	     63
+FZ055	Blueberry Waffles, 10	                 2.39	  1.22	     30	     50
+FZ050	Buttermilk Waffles, 10	                 2.39	  1.19	     41	     48
+FZ051	Buttermilk Waffles, 16	                 2.99	  1.55	     50	     50
+FZ053	Homestyle Waffles, 16	                 2.99	  1.52	     48	     25
+FZ042	French Fries, 32 oz	                 2.29	  1.04	    201	    298
+FZ061	Onion Rings, 16 oz	                 1.93	  0.95	    136	    144
+FZ047	Hash Browns, 32 oz	                 2.29	  0.99	     82	     86
+FZ002	Chocolate Ice Cream, half gallon	 5.49	  2.39	    183	    177
+FZ007	Coffee Ice Cream, half gallon	         5.49	  2.75	     49	     21
+FZ004	French Vanilla Ice Cream, half gallon	 5.49	  2.22	    177	    187
+BV010	Coca Cola Classic, 12 pack cans	         3.99	  2.04	    202	    214
+BV011	Coca Cola Classic, 24 pack cans	         5.99	  2.59	    128	    136
+BV020	Diet Pepsi, 6 pack 24 oz bottles	 2.99	  1.24	    402	    418
+BV031	Diet Dr Pepper, 12 pack cans	         3.99	  1.79	    201	    199
+BV030	Dr Pepper, 24 pack cans	                 6.99	  3.34	    239	    336
+BV021	Diet Pepsi, 24 pack cans	         5.79	  2.20	    448	    416
+BV083	Aquafina, 6 pack 24 oz bottles	         2.99	  1.05	    118	    120
+BV080	Aquafina, 1 liter	                 0.99	  0.29	    203	    103
+BV085	Dannon Natural Spring Water, 1 liter	 1.19	  0.40	    113	    151
+B0001	Whole Wheat Bread, 20 oz loaf	         2.41	  1.09	    240	    220
+B0003	Honey Wheat Bread, 16 oz loaf	         2.45	  1.19	    256	    254
+B0010	White Bread, 16 oz loaf	                 2.19	  1.04	    380	    220
+B0011	White Bread, 20 oz loaf	                 2.55	  1.15	    297	    179
+B0021	Bagels, Plain, 6 pack	                 2.39	  1.08	    103	    107
+B0022	Bagels, Natural Wheat, 6 pack	         2.39	  1.18	     84	     82
+B0023	Bagels, Blueberry, 6 pack	         2.39	  1.12	     42	     36

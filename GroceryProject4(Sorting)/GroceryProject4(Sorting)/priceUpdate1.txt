@@ -1,0 +1,6 @@
+SKU	Item					Retail	  Cost
+B0001	Whole Wheat Bread, 20 oz loaf	        4.44	  2.22
+B0003	Honey Wheat Bread, 16 oz loaf	        2.65	  1.29
+B0010	White Bread, 16 oz loaf	                2.39	  1.24
+B0011	White Bread, 20 oz loaf	                2.75	  1.45
+B0021	Bagels, Plain, 6 pack	                2.79	  1.58

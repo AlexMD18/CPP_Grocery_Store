@@ -1,0 +1,5 @@
+SKU	Item                             	Retail    Cost      Floor     Warehouse
+F0008	Strawberries 16 oz	                1.49	  0.69	    72	      118
+F0009	Blackberries, vine ripened 1/2 pt	4.49	  1.99	    53	      136
+F0010	Blueberries, vine ripened 1/2 pt	5.99	  2.49	    32	      68
+F0011	Grapefruit, large pink	                0.79	  0.29	    88	      212
